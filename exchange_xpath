@@ -3,3 +3,5 @@ base_url: https://coinmarketcap.com
 all_exchanges: /exchanges/volume/24-hour/all/
 
 exchange_urls_xpath: //h3[@class='volume-header']/a/@href
+
+
